@@ -1,2 +1,2 @@
-# nodejs-express-template
-Template for nodejs application
+# mailer
+Nodejs API application to send email
